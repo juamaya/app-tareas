@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/juamaya/app-tareas/static/css/main.ce1d6bed.css",
+    "main.js": "/juamaya/app-tareas/static/js/main.a0d3f0d6.js",
+    "index.html": "/juamaya/app-tareas/index.html",
+    "main.ce1d6bed.css.map": "/juamaya/app-tareas/static/css/main.ce1d6bed.css.map",
+    "main.a0d3f0d6.js.map": "/juamaya/app-tareas/static/js/main.a0d3f0d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1d6bed.css",
+    "static/js/main.a0d3f0d6.js"
+  ]
+}
